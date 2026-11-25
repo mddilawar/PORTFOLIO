@@ -1,0 +1,1 @@
+$h = [regex]::Replace($h, '(?i)<meta[>]*charset[>]*, '<meta charset="UTF-8">', 'Multiline')
